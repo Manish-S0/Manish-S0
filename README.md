@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Shah</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **github actions**
 
 - 📫 How to reach me **sah.manees@gmail.com**
 
